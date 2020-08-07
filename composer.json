@@ -1,0 +1,10 @@
+{
+    "name": "ilapis/website_builder",
+    "description": "No description",
+    "type": "library",
+    "license": "No license",
+    "minimum-stability": "alpha",
+    "autoload": {
+        "psr-4": {"WB\\": "src/"}
+    }
+}
