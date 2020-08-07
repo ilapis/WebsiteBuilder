@@ -2,7 +2,7 @@
     "name": "ilapis/website_builder",
     "description": "No description",
     "type": "library",
-    "license": "No license",
+    "license": "proprietary",
     "minimum-stability": "alpha",
     "autoload": {
         "psr-4": {"WB\\": "src/"}
